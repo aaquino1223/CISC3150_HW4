@@ -1,0 +1,22 @@
+----Testing Constructor and toString method----
+myString - Alex
+
+----Testing length and charAt methods----
+A
+l
+e
+x
+
+----Testing substring method----
+Al
+
+----Testing toLowerCase and toUpperCase methods----
+alex
+ALEX
+
+----Testing equals and getMyString methods----
+myString(Alex) is not the same as myString2(Al)
+myString(Alex) is the same as myString2(Alex)
+
+----Testing valueOf method----
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
